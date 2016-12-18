@@ -1,0 +1,29 @@
+{
+  "name": "droopy-vlc",
+  "version": "0.0.8",
+  "description": "Node wrapper for VLC http endpoints",
+  "main": "VlcService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DroopyTersen/droopy-vlc.git"
+  },
+  "keywords": [
+    "droopy",
+    "vlc",
+    "remote-control"
+  ],
+  "author": "Andrew Petersen",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DroopyTersen/droopy-vlc/issues"
+  },
+  "homepage": "https://github.com/DroopyTersen/droopy-vlc",
+  "dependencies": {
+    "droopy-http": "0.0.1",
+    "q": "~1.0.0",
+    "xmldoc": "~0.1.2"
+  }
+}
